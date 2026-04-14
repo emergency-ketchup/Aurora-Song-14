@@ -6958,3 +6958,527 @@ Entries:
   id: 9062
   time: '2026-03-31T20:49:55.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/868
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: IPCs can fit in borg chargers
+  id: 9063
+  time: '2026-04-02T01:40:46.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/877
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: borg emotes no longer show up in the menu if you can't use them
+  id: 9064
+  time: '2026-04-02T02:36:44.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/874
+- author: Phoenix51505
+  changes:
+    - type: Tweak
+      message: Increased the durability of Shipminds
+    - type: Fix
+      message: Removed left over syndicate components from Shipminds
+    - type: Fix
+      message: Shipboard and Shortband radios for all AI
+  id: 9065
+  time: '2026-04-02T02:40:48.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/869
+- author: TurtleOfMen
+  changes:
+    - type: Add
+      message: Disposals system to Javelin
+    - type: Add
+      message: Collection boxes to Javelin
+    - type: Add
+      message: Jump drive to Javelin
+    - type: Tweak
+      message: Javelin price increased to 115,000 spesos
+  id: 9066
+  time: '2026-04-02T02:44:36.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/871
+- author: Zenixic
+  changes:
+    - type: Add
+      message: Added Merc techfab and CTLA-25 Bluespace drive to the scorpion.
+    - type: Tweak
+      message: Increase price of the Scorpion by 10k, now at 97k.
+  id: 9067
+  time: '2026-04-02T02:45:14.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/876
+- author: Zenixic
+  changes:
+    - type: Add
+      message: Added the emergency comfort deployment unit from the den, AKA Pillows.
+  id: 9068
+  time: '2026-04-02T02:45:59.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/878
+- author: emergency-ketchup
+  changes:
+    - type: Add
+      message: >-
+        Condiment machine, due to relentless teasing, along with complementary
+        refill box
+    - type: Add
+      message: Naturalized area in the location of old bus!
+    - type: Add
+      message: >-
+        Southern docking arm, more parking spaces, more fun stuff! Also, the new
+        location of the bus.
+    - type: Tweak
+      message: Improved clarity of docking and EVA signage.
+    - type: Tweak
+      message: Improved EVA parking spaces.
+    - type: Tweak
+      message: Misc signage added and shifted
+  id: 9069
+  time: '2026-04-02T04:17:43.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/879
+- author: BudaLope
+  changes:
+    - type: Add
+      message: More mags and power cells go into leg holsters
+  id: 9070
+  time: '2026-04-02T06:47:28.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/881
+- author: Vandanna
+  changes:
+    - type: Add
+      message: QuickPhrases for LBK and Damascus
+  id: 9071
+  time: '2026-04-02T08:36:12.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/883
+- author: ZigTag
+  changes:
+    - type: Tweak
+      message: disabled breaker flip
+  id: 9072
+  time: '2026-04-02T22:37:56.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/885
+- author: BudaLope
+  changes:
+    - type: Add
+      message: Added service flag to shuttles to allow 18+ content flagging
+  id: 9073
+  time: '2026-04-03T07:08:01.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/887
+- author: Zenixic
+  changes:
+    - type: Tweak
+      message: >-
+        Removed a poster spawn so an extinguisher cabinet is visible on the
+        Scythe.
+  id: 9074
+  time: '2026-04-03T07:19:21.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/886
+- author: BudaLope
+  changes:
+    - type: Tweak
+      message: Changed ahelp audio
+  id: 9075
+  time: '2026-04-03T07:25:59.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/880
+- author: GreyScaleHarlequin
+  changes:
+    - type: Add
+      message: Added new Sheleg centric chems! Drink some Strongheart brew!
+  id: 9076
+  time: '2026-04-03T16:42:12.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/888
+- author: Vandanna
+  changes:
+    - type: Add
+      message: new AS station beacons and loc strings
+  id: 9077
+  time: '2026-04-04T00:12:05.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/890
+- author: Vandanna
+  changes:
+    - type: Add
+      message: bus docking loc strings
+  id: 9078
+  time: '2026-04-04T03:32:53.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/892
+- author: AssignedGod and GreyScaleHarlequin
+  changes:
+    - type: Add
+      message: Added the somber mapping kit from Den
+    - type: Add
+      message: Added the mantis gear from Den
+    - type: Add
+      message: Added mantis melee weapons from Den
+    - type: Tweak
+      message: Rebalanced mantis melee weapons for AS standards
+    - type: Add
+      message: Added a BUNCH of mantis Loadout items
+    - type: Add
+      message: Added napsacks
+  id: 9079
+  time: '2026-04-04T05:02:33.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/873
+- author: LizArmchair, turtleofmen, emergency-ketchup, Zenixic, Haawsome,
+  changes:
+    - type: Add
+      message: 'Mapping and designing PB LizArmchair. '
+    - type: Add
+      message: >-
+        For help with mapping, room design, and technical work: turtleofmen,
+        emergency-ketchup. 
+    - type: Add
+      message: >-
+        For designing the park and helping at the start of the project: Zenixic,
+        Haawsome, .Slavie
+  id: 9080
+  time: '2026-04-04T07:37:08.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/894
+- author: Vandanna
+  changes:
+    - type: Add
+      message: CAF Petrel Mk. II Shipyard
+    - type: Add
+      message: Colonial Command Shipyard
+    - type: Add
+      message: Colonial Command Airlocks
+    - type: Tweak
+      message: DoC, Sheriff, ColRep Locker Fills
+    - type: Tweak
+      message: DoC PDA centcom pen -> ColCom Pen
+    - type: Add
+      message: Colonial Command spawners/ loadouts
+    - type: Add
+      message: ColComm/ CAF Chameleon Gear sets
+  id: 9081
+  time: '2026-04-04T09:02:12.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/895
+- author: TheLuggage05
+  changes:
+    - type: Add
+      message: Security guard now has a contraband handling license.
+    - type: Fix
+      message: >-
+        The security guard's uniform no longer references Frontier Outpost in
+        its description.
+  id: 9082
+  time: '2026-04-04T16:32:08.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/891
+- author: assignedgod
+  changes:
+    - type: Tweak
+      message: Corrected the manifold reflect chance to be in acceptable parameters
+  id: 9083
+  time: '2026-04-04T17:23:16.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/896
+- author: assignedgod
+  changes:
+    - type: Fix
+      message: 'Fairies can fit n bags '
+  id: 9084
+  time: '2026-04-05T03:42:31.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/897
+- author: TurtleOfMen
+  changes:
+    - type: Add
+      message: Napkins, ice box, jukebox, sink to bar.
+    - type: Add
+      message: Two experiment plushies
+    - type: Add
+      message: Boreal Cryogenic pipework
+    - type: Add
+      message: Tile variants and dirt to Boreal
+    - type: Add
+      message: Public crew monitor to med
+    - type: Add
+      message: Entertainment and Crew servers
+    - type: Add
+      message: Disposals switch to disposals conveyor belt
+    - type: Add
+      message: Slight cosmetic changes (posters, decals, banners)
+    - type: Add
+      message: Directional fans to sell point blast doors
+    - type: Add
+      message: Cameras for the AI
+    - type: Add
+      message: Bardrobe behind bar
+    - type: Remove
+      message: Removed many lights
+    - type: Tweak
+      message: Distro and waste numbers turned to standard rate
+    - type: Tweak
+      message: Moved valet roundstart spawnpoint
+    - type: Fix
+      message: Fixed Astrovend POI vending machines
+    - type: Fix
+      message: Fixed missing vacuum tiles from new lattices
+    - type: Fix
+      message: Distro mixer starts ON now
+    - type: Fix
+      message: Missing distro pipes replaced
+    - type: Fix
+      message: Map background
+    - type: Fix
+      message: Dock prototype issues
+    - type: Fix
+      message: De-spawning Boreal issue fixed
+  id: 9085
+  time: '2026-04-05T08:31:47.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/899
+- author: Vandanna
+  changes:
+    - type: Tweak
+      message: Increase general station role slots
+    - type: Tweak
+      message: Give Service Jani access
+  id: 9086
+  time: '2026-04-05T08:47:37.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/904
+- author: GreyScaleHarlequin
+  changes:
+    - type: Fix
+      message: You hallucinated that warrior's blood didn't heal burns
+  id: 9087
+  time: '2026-04-05T11:07:15.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/901
+- author: GreyScaleHarlequin
+  changes:
+    - type: Fix
+      message: Mantis PDA now has an ID, you're a valid worker.
+  id: 9088
+  time: '2026-04-05T11:08:34.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/900
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: increased encryption key count to 20 on IPCs
+    - type: Fix
+      message: interaction menu not appearing on IPCs
+    - type: Fix
+      message: non polymorphable IPCs
+    - type: Fix
+      message: encryption key component now properly syncs lock state with client
+    - type: Tweak
+      message: IPCs can now self insert batteries
+  id: 9089
+  time: '2026-04-06T01:26:25.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/906
+- author: LizArmchair
+  changes:
+    - type: Add
+      message: air can dispensers to PB
+    - type: Fix
+      message: Fixed air can labeling
+  id: 9090
+  time: '2026-04-06T03:09:43.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/910
+- author: portfiend
+  changes:
+    - type: Add
+      message: >-
+        Mochi has been added in a variety of flavors: (regular) mochi, cherry
+        mochi, bungo mochi, chocolate mochi, fiber mochi, rosy mochi, spice
+        mochi, tea mochi, ube mochi, and pumpkin mochi.
+  id: 9091
+  time: '2026-04-06T03:51:05.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/907
+- author: LizArmchair, ZigTag
+  changes:
+    - type: Add
+      message: Avali from Moff Station!
+    - type: Tweak
+      message: loadout code to add ammonia to survival kits
+  id: 9092
+  time: '2026-04-06T09:10:26.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/905
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: >-
+        Denu formatting no longer breaks players with the silicon damage accent,
+        or the stuttering accent
+    - type: Fix
+      message: The silicon damage accent will no longer terminate your sentences early
+  id: 9093
+  time: '2026-04-06T09:19:10.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/911
+- author: Phoenix51505
+  changes:
+    - type: Fix
+      message: Hits ESS with more hammers to get it to work
+  id: 9094
+  time: '2026-04-06T09:19:35.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/908
+- author: snezshiba
+  changes:
+    - type: Add
+      message: Added Ovinia, a sheep/cow/deer roundstart species!
+  id: 9095
+  time: '2026-04-06T09:26:29.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/903
+- author: portfiend
+  changes:
+    - type: Tweak
+      message: A vast majority of loadouts no longer have playtime requirements.
+  id: 9096
+  time: '2026-04-07T12:23:47.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/915
+- author: Zenixic
+  changes:
+    - type: Add
+      message: Added ship and intra ship prototypes for gloomy holopads for mapping
+  id: 9097
+  time: '2026-04-08T14:19:42.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/914
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: Undo UI lock on Damascus Shipyard
+  id: 9098
+  time: '2026-04-09T07:10:01.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/917
+- author: LizArmchair
+  changes:
+    - type: Add
+      message: space movement speed to Avali
+    - type: Tweak
+      message: 'Ionstorm stun chance, thirst factor of reagents. '
+    - type: Fix
+      message: carriable component
+  id: 9099
+  time: '2026-04-09T21:33:33.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/922
+- author: ZigTag
+  changes:
+    - type: Add
+      message: New railings from delta
+    - type: Tweak
+      message: New stair texture from delta
+  id: 9100
+  time: '2026-04-10T11:37:12.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/884
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: Admin access config now has correct card
+  id: 9101
+  time: '2026-04-10T19:51:47.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/928
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: Petrel nacelle gantry lights were unpowered
+  id: 9102
+  time: '2026-04-10T20:46:48.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/931
+- author: Phoenix51505
+  changes:
+    - type: Fix
+      message: Fixes the ESS. Again.
+    - type: Tweak
+      message: Makes the ESS less zealous about rescuing you pre-maturely
+  id: 9103
+  time: '2026-04-10T21:27:00.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/926
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: missing spray painter stuff for SLE
+    - type: Tweak
+      message: add paramed siren to medic armored hardsuit
+    - type: Tweak
+      message: switch logprobe icon
+    - type: Tweak
+      message: add forensic upgrade and shuttle records to SLEO
+  id: 9104
+  time: '2026-04-10T21:27:59.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/929
+- author: Vandanna
+  changes:
+    - type: Tweak
+      message: Undeprecates Cargo access, grants to STC, Valet, Mail Carrier
+  id: 9105
+  time: '2026-04-10T21:29:37.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/932
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: switch ColRep dresser for proper one
+    - type: Tweak
+      message: adjust disposals to hopefully allow better trash flow
+    - type: Tweak
+      message: some decals
+    - type: Add
+      message: ATMs to cargo bays
+    - type: Fix
+      message: IFF marker
+  id: 9106
+  time: '2026-04-10T21:36:28.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/930
+- author: Vandanna
+  changes:
+    - type: Fix
+      message: Exped Falchions should be registerable now
+  id: 9107
+  time: '2026-04-10T21:36:50.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/927
+- author: Zenixic
+  changes:
+    - type: Fix
+      message: RPEDs no longer drop their parts when upgrading ore processors.
+  id: 9108
+  time: '2026-04-11T08:52:03.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/935
+- author: Phoenix51505
+  changes:
+    - type: Tweak
+      message: >-
+        Changed both the Shipmind's lawset and ghost role description to
+        disincentivize leaving your ship for minimal reason.
+  id: 9109
+  time: '2026-04-12T03:29:03.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/937
+- author: BudaLope
+  changes:
+    - type: Tweak
+      message: Fiber now fills you up the default amount
+  id: 9110
+  time: '2026-04-13T09:55:30.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/942
+- author: Phoenix51505
+  changes:
+    - type: Fix
+      message: Fixed inconsistent sprites on remote traffic consoles
+    - type: Fix
+      message: Mapped the correct consoles onto PB and TS for controlling traffic
+  id: 9111
+  time: '2026-04-13T10:50:56.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/939
+- author: Phoenix51505
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the temperature damage values for tajaran's so being cold no
+        longer causes heat burns and vice versa
+  id: 9112
+  time: '2026-04-13T10:51:10.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/941
+- author: Zenixic
+  changes:
+    - type: Add
+      message: >-
+        Added the GT Dinghy into the scrapyard, an expedition capable "ship"
+        intended for custom shipbuilding
+  id: 9113
+  time: '2026-04-13T10:56:36.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/936
+- author: CombustibleToast
+  changes:
+    - type: Tweak
+      message: Scrubbers now scrub helium by default.
+  id: 9114
+  time: '2026-04-14T04:24:22.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/943
+- author: AvianMaiden
+  changes:
+    - type: Add
+      message: All holsters make a unique sound now!
+  id: 9115
+  time: '2026-04-14T04:24:51.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/938
