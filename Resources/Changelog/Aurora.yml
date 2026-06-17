@@ -1400,3 +1400,33 @@ Entries:
   id: 9536
   time: '2026-06-14T23:30:15.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1124
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: custom money stack splitting (finally)
+  id: 9537
+  time: '2026-06-15T02:10:57.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1143
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: harpies can eat raw meat again
+  id: 9538
+  time: '2026-06-15T02:34:13.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1147
+- author: ZigTag
+  changes:
+    - type: Tweak
+      message: tweak is now a valid PR type, developers rejoice!
+  id: 9539
+  time: '2026-06-15T20:48:15.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1151
+- author: AvianMaiden
+  changes:
+    - type: Fix
+      message: Vox are no longer forced to have feather-colored arms and legs
+    - type: Add
+      message: Vox can now have any color scutes they desire.
+  id: 9540
+  time: '2026-06-17T17:35:52.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1153
